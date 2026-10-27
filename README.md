@@ -1,4 +1,4 @@
-# movie-review-sentiment-analysis# Movie Review Sentiment Analysis using NLP and Machine Learning
+# Movie Review Sentiment Analysis using NLP and Machine Learning
 
 ## Project Overview
 
